@@ -1,0 +1,11 @@
+.banner{
+    background-color: gray;
+    width: 500px;
+    height: 500px;
+    /*background-image: url("logo.webp") ,url(image.png);
+    background-repeat: no-repeat; no-repeat;
+    background-position: center, center;
+    background-size: 30%, cover; */
+    background-image: conic-gradient(red, green, blue);
+    border-radius: 50%;
+}
